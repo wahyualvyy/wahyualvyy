@@ -93,7 +93,3 @@ Saya percaya kombinasi antara teori dan praktik adalah kunci untuk menjadi devel
 
 ---
 
-<img src="https://raw.githubusercontent.com/wahyualvyy/wahyualvyy/output/snake.svg" alt="Snake animation eating my contributions" />
-
----
-
