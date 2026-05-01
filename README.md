@@ -21,7 +21,7 @@ Selain belajar di kampus, saya aktif sebagai **Asisten Laboratorium** di bidang 
 
 Saya percaya kombinasi antara teori dan praktik adalah kunci untuk menjadi developer yang handal. 🚀
 
-✨ Kunjungi portofolio saya di https://wahyu-alvy.vercel.app/
+✨ Kunjungi portofolio saya di [https://wahyu-alvy.vercel.app/](https://wahyualvy.my.id/)
 
 ---
 
