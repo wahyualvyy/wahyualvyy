@@ -11,7 +11,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=wahyualvyy&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
+  <img src="https://avatars.githubusercontent.com/u/135007309?v=4" alt="Profile Views"/>
   <a href="https://wahyualvy.my.id/"><img src="https://img.shields.io/badge/Portfolio-wahyualvy.my.id-6366f1?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/github/followers/wahyualvyy?label=Followers&style=flat-square&color=6366f1&logo=github" alt="GitHub Followers"/>
 </p>
