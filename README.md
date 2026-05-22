@@ -1,24 +1,26 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahyu%20Alvy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Web%20%26%20Backend%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
-<!-- Typing Animation -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Wahyu+Alvy+%F0%9F%91%8B;Informatika+%40+UMSIDA;Web+%26+Backend+Developer;Lab+Assistant+%7C+Lifelong+Learner;Building+things+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://avatars.githubusercontent.com/u/135007309?v=4" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=wahyualvyy&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
   <a href="https://wahyualvy.my.id/"><img src="https://img.shields.io/badge/Portfolio-wahyualvy.my.id-6366f1?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/github/followers/wahyualvyy?label=Followers&style=flat-square&color=6366f1&logo=github" alt="GitHub Followers"/>
 </p>
 
-</div>
+<br/>
 
-✨ Kunjungi portofolio saya di https://wahyualvy.my.id/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyualvyy/wahyualvyy/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyualvyy/wahyualvyy/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/wahyualvyy/wahyualvyy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
 
 ---
 
@@ -221,7 +223,7 @@ echo $me->greeting();
 
 ---
 
-## 🎮 Contribution Pacman
+## 🎮 Pacman & Snake — Contribution Games
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyualvyy/wahyualvyy/output/pacman-contribution-graph-dark.svg">
